@@ -1,0 +1,155 @@
+2026-01-07 10:38:52 [Information] ServiceB başlatılıyor...
+2026-01-07 10:38:53 [Information] ServiceB başlatıldı!
+2026-01-07 10:38:53 [Information] Now listening on: "https://localhost:7113"
+2026-01-07 10:38:53 [Information] Now listening on: "http://localhost:5054"
+2026-01-07 10:38:53 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 10:38:53 [Information] Hosting environment: "Development"
+2026-01-07 10:38:53 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceB.Api"
+2026-01-07 10:39:48 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:39:48 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:39:48 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:39:48 [Information] ServiceB test
+2026-01-07 10:39:48 [Warning] Bu bir test warning logu
+2026-01-07 10:39:48 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:39:48 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 43.7438ms
+2026-01-07 10:39:48 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:39:48 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 219.9505ms
+2026-01-07 10:39:48 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/favicon.ico""" - null null
+2026-01-07 10:39:48 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/favicon.ico""" - 404 0 null 5.9011ms
+2026-01-07 10:39:48 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:5054""""/favicon.ico", Response status code: 404
+2026-01-07 10:55:21 [Information] ServiceB başlatılıyor...
+2026-01-07 10:55:22 [Information] ServiceB başlatıldı!
+2026-01-07 10:55:22 [Information] Now listening on: "https://localhost:7113"
+2026-01-07 10:55:22 [Information] Now listening on: "http://localhost:5054"
+2026-01-07 10:55:23 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 10:55:23 [Information] Hosting environment: "Development"
+2026-01-07 10:55:23 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceB.Api"
+2026-01-07 10:55:44 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:55:44 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:55:44 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:55:44 [Information] ServiceB test
+2026-01-07 10:55:44 [Warning] Bu bir test warning logu
+2026-01-07 10:55:44 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:55:44 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 44.1212ms
+2026-01-07 10:55:44 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:55:44 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 225.8613ms
+2026-01-07 10:55:49 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:55:49 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:55:49 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:55:49 [Information] ServiceB test
+2026-01-07 10:55:49 [Warning] Bu bir test warning logu
+2026-01-07 10:55:49 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:55:49 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 6.2528ms
+2026-01-07 10:55:49 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:55:49 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 24.2088ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 5.7003ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 40.223ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 3.6097ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 15.195ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 3.3798ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 13.8393ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 3.5938ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 16.2134ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 3.5067ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 13.8703ms
+2026-01-07 10:58:45 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 10:58:45 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 10:58:45 [Information] ServiceB test
+2026-01-07 10:58:45 [Warning] Bu bir test warning logu
+2026-01-07 10:58:45 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:45 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 3.8411ms
+2026-01-07 10:58:45 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 10:58:45 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 15.7847ms
+2026-01-07 11:03:16 [Information] ServiceB başlatılıyor...
+2026-01-07 11:03:17 [Information] ServiceB başlatıldı!
+2026-01-07 11:03:18 [Information] Now listening on: "https://localhost:7113"
+2026-01-07 11:03:18 [Information] Now listening on: "http://localhost:5054"
+2026-01-07 11:03:18 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 11:03:18 [Information] Hosting environment: "Development"
+2026-01-07 11:03:18 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceB.Api"
+2026-01-07 11:04:28 [Information] ServiceB başlatılıyor...
+2026-01-07 11:04:29 [Information] ServiceB başlatıldı!
+2026-01-07 11:04:29 [Information] Now listening on: "https://localhost:7113"
+2026-01-07 11:04:29 [Information] Now listening on: "http://localhost:5054"
+2026-01-07 11:04:29 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 11:04:29 [Information] Hosting environment: "Development"
+2026-01-07 11:04:29 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceB.Api"
+2026-01-07 11:04:54 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 11:04:54 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:54 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 11:04:54 [Information] ServiceB test endpoint çağrıldı
+2026-01-07 11:04:54 [Warning] Bu bir test warning logu
+2026-01-07 11:04:54 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:04:54 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 49.8893ms
+2026-01-07 11:04:54 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:54 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 199.1221ms
+2026-01-07 11:04:57 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 11:04:57 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:57 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 11:04:57 [Information] ServiceB test endpoint çağrıldı
+2026-01-07 11:04:57 [Warning] Bu bir test warning logu
+2026-01-07 11:04:57 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:04:57 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 5.4753ms
+2026-01-07 11:04:57 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:57 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 21.6876ms
+2026-01-07 11:04:58 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 11:04:58 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:58 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 11:04:58 [Information] ServiceB test endpoint çağrıldı
+2026-01-07 11:04:58 [Warning] Bu bir test warning logu
+2026-01-07 11:04:58 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:04:58 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 2.377ms
+2026-01-07 11:04:58 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:04:58 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 10.4238ms
+2026-01-07 11:10:40 [Information] ServiceB başlatılıyor...
+2026-01-07 11:10:42 [Information] ServiceB başlatıldı!
+2026-01-07 11:10:42 [Information] Now listening on: "https://localhost:7113"
+2026-01-07 11:10:42 [Information] Now listening on: "http://localhost:5054"
+2026-01-07 11:10:42 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 11:10:42 [Information] Hosting environment: "Development"
+2026-01-07 11:10:42 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceB.Api"
+2026-01-07 11:10:54 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - null null
+2026-01-07 11:10:54 [Information] Executing endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:10:54 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceB.API.Controllers.TestController" ("sinergyit.ServiceB.Api").
+2026-01-07 11:10:54 [Information] ServiceB test endpoint çağrıldı
+2026-01-07 11:10:54 [Warning] Bu bir test warning logu
+2026-01-07 11:10:54 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:10:54 [Information] Executed action "sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)" in 57.2763ms
+2026-01-07 11:10:54 [Information] Executed endpoint '"sinergyit.ServiceB.API.Controllers.TestController.Get (sinergyit.ServiceB.Api)"'
+2026-01-07 11:10:54 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5054""""/api/test""" - 200 null "application/json; charset=utf-8" 240.1931ms

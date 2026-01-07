@@ -1,0 +1,302 @@
+2026-01-07 10:38:52 [Information] ServiceA başlatılıyor...
+2026-01-07 10:38:53 [Information] ServiceA başlatıldı!
+2026-01-07 10:38:54 [Information] Now listening on: "https://localhost:7098"
+2026-01-07 10:38:54 [Information] Now listening on: "http://localhost:5251"
+2026-01-07 10:38:54 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 10:38:54 [Information] Hosting environment: "Development"
+2026-01-07 10:38:54 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceA.Api"
+2026-01-07 10:39:35 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:39:35 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:39:35 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:39:35 [Information] ServiceA test
+2026-01-07 10:39:35 [Warning] Bu bir test warning logu
+2026-01-07 10:39:35 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:39:36 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 43.2835ms
+2026-01-07 10:39:36 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:39:36 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 361.8094ms
+2026-01-07 10:39:36 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/favicon.ico""" - null null
+2026-01-07 10:39:36 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/favicon.ico""" - 404 0 null 5.2133ms
+2026-01-07 10:39:36 [Information] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:5251""""/favicon.ico", Response status code: 404
+2026-01-07 10:55:21 [Information] ServiceA başlatılıyor...
+2026-01-07 10:55:22 [Information] ServiceA başlatıldı!
+2026-01-07 10:55:22 [Information] Now listening on: "https://localhost:7098"
+2026-01-07 10:55:22 [Information] Now listening on: "http://localhost:5251"
+2026-01-07 10:55:23 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 10:55:23 [Information] Hosting environment: "Development"
+2026-01-07 10:55:23 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceA.Api"
+2026-01-07 10:55:33 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:55:33 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:55:33 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:55:33 [Information] ServiceA test
+2026-01-07 10:55:33 [Warning] Bu bir test warning logu
+2026-01-07 10:55:33 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:55:33 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 31.2035ms
+2026-01-07 10:55:33 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:55:33 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 219.0548ms
+2026-01-07 10:58:12 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:12 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:12 [Information] ServiceA test
+2026-01-07 10:58:12 [Warning] Bu bir test warning logu
+2026-01-07 10:58:12 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:12 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 7.6082ms
+2026-01-07 10:58:12 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 45.5172ms
+2026-01-07 10:58:12 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:12 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:12 [Information] ServiceA test
+2026-01-07 10:58:12 [Warning] Bu bir test warning logu
+2026-01-07 10:58:12 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:12 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.1879ms
+2026-01-07 10:58:12 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 18.2764ms
+2026-01-07 10:58:12 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:12 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:12 [Information] ServiceA test
+2026-01-07 10:58:12 [Warning] Bu bir test warning logu
+2026-01-07 10:58:12 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:12 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.9167ms
+2026-01-07 10:58:12 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:12 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.8927ms
+2026-01-07 10:58:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:13 [Information] ServiceA test
+2026-01-07 10:58:13 [Warning] Bu bir test warning logu
+2026-01-07 10:58:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.4701ms
+2026-01-07 10:58:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.494ms
+2026-01-07 10:58:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:13 [Information] ServiceA test
+2026-01-07 10:58:13 [Warning] Bu bir test warning logu
+2026-01-07 10:58:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 4.5549ms
+2026-01-07 10:58:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 28.2739ms
+2026-01-07 10:58:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:13 [Information] ServiceA test
+2026-01-07 10:58:13 [Warning] Bu bir test warning logu
+2026-01-07 10:58:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.1554ms
+2026-01-07 10:58:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 18.2228ms
+2026-01-07 10:58:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:13 [Information] ServiceA test
+2026-01-07 10:58:13 [Warning] Bu bir test warning logu
+2026-01-07 10:58:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.6878ms
+2026-01-07 10:58:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 14.5029ms
+2026-01-07 10:58:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 10:58:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 10:58:13 [Information] ServiceA test
+2026-01-07 10:58:13 [Warning] Bu bir test warning logu
+2026-01-07 10:58:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 10:58:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 2.9963ms
+2026-01-07 10:58:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 10:58:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 14.7649ms
+2026-01-07 11:03:16 [Information] ServiceA başlatılıyor...
+2026-01-07 11:04:28 [Information] ServiceA başlatılıyor...
+2026-01-07 11:04:29 [Information] ServiceA başlatıldı!
+2026-01-07 11:04:29 [Information] Now listening on: "https://localhost:7098"
+2026-01-07 11:04:29 [Information] Now listening on: "http://localhost:5251"
+2026-01-07 11:04:29 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 11:04:29 [Information] Hosting environment: "Development"
+2026-01-07 11:04:29 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceA.Api"
+2026-01-07 11:04:36 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:04:36 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:04:36 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:04:36 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:04:36 [Warning] Bu bir test warning logu
+2026-01-07 11:04:36 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:04:36 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 40.4224ms
+2026-01-07 11:04:36 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:04:36 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 194.5765ms
+2026-01-07 11:05:18 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:05:18 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:05:18 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:05:18 [Warning] Bu bir test warning logu
+2026-01-07 11:05:18 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:05:18 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 4.9946ms
+2026-01-07 11:05:18 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 38.3881ms
+2026-01-07 11:05:18 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:05:18 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:05:18 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:05:18 [Warning] Bu bir test warning logu
+2026-01-07 11:05:18 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:05:18 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 4.7877ms
+2026-01-07 11:05:18 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 18.1375ms
+2026-01-07 11:05:18 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:05:18 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:05:18 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:05:18 [Warning] Bu bir test warning logu
+2026-01-07 11:05:18 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:05:18 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.7298ms
+2026-01-07 11:05:18 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 14.755ms
+2026-01-07 11:05:18 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:05:18 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:05:18 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:05:18 [Warning] Bu bir test warning logu
+2026-01-07 11:05:18 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:05:18 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.4036ms
+2026-01-07 11:05:18 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 12.9713ms
+2026-01-07 11:05:18 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:05:18 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:05:18 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:05:18 [Warning] Bu bir test warning logu
+2026-01-07 11:05:18 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:05:18 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.2332ms
+2026-01-07 11:05:18 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:05:18 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.038ms
+2026-01-07 11:06:13 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:06:13 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:06:13 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:06:13 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:06:13 [Warning] Bu bir test warning logu
+2026-01-07 11:06:13 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:06:13 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 4.2979ms
+2026-01-07 11:06:13 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:06:13 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 24.2235ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 10.5671ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 43.7933ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 70.1525ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 128.075ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 5.3941ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 20.2576ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 4.0809ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 16.364ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.323ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 14.9463ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.0245ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.6634ms
+2026-01-07 11:07:41 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:41 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:41 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:41 [Warning] Bu bir test warning logu
+2026-01-07 11:07:41 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:41 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.6671ms
+2026-01-07 11:07:41 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:41 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.8215ms
+2026-01-07 11:07:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:42 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:42 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:42 [Warning] Bu bir test warning logu
+2026-01-07 11:07:42 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:42 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 5.3672ms
+2026-01-07 11:07:42 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 22.6353ms
+2026-01-07 11:07:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:42 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:42 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:42 [Warning] Bu bir test warning logu
+2026-01-07 11:07:42 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:42 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 5.2256ms
+2026-01-07 11:07:42 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 21.9732ms
+2026-01-07 11:07:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:42 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:42 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:42 [Warning] Bu bir test warning logu
+2026-01-07 11:07:42 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:42 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.5667ms
+2026-01-07 11:07:42 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 13.2855ms
+2026-01-07 11:07:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:42 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:42 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:42 [Warning] Bu bir test warning logu
+2026-01-07 11:07:42 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:42 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.1076ms
+2026-01-07 11:07:42 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 14.2505ms
+2026-01-07 11:07:42 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:07:42 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:07:42 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:07:42 [Warning] Bu bir test warning logu
+2026-01-07 11:07:42 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:07:42 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 3.4158ms
+2026-01-07 11:07:42 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:07:42 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 12.2538ms
+2026-01-07 11:10:40 [Information] ServiceA başlatılıyor...
+2026-01-07 11:10:42 [Information] ServiceA başlatıldı!
+2026-01-07 11:10:42 [Information] Now listening on: "https://localhost:7098"
+2026-01-07 11:10:42 [Information] Now listening on: "http://localhost:5251"
+2026-01-07 11:10:42 [Information] Application started. Press Ctrl+C to shut down.
+2026-01-07 11:10:42 [Information] Hosting environment: "Development"
+2026-01-07 11:10:42 [Information] Content root path: "C:\Users\sproi\OneDrive\Masaüstü\sinergyit-soru3\sinergyit.ServiceA.Api"
+2026-01-07 11:10:53 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - null null
+2026-01-07 11:10:53 [Information] Executing endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:10:53 [Information] Route matched with "{action = \"Get\", controller = \"Test\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Get()" on controller "sinergyit.ServiceA.API.Controllers.TestController" ("sinergyit.ServiceA.Api").
+2026-01-07 11:10:53 [Information] ServiceA test endpoint çağrıldı
+2026-01-07 11:10:53 [Warning] Bu bir test warning logu
+2026-01-07 11:10:53 [Information] Executing "OkObjectResult", writing value of type '"<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]"'.
+2026-01-07 11:10:53 [Information] Executed action "sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)" in 48.2742ms
+2026-01-07 11:10:53 [Information] Executed endpoint '"sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)"'
+2026-01-07 11:10:53 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5251""""/api/test""" - 200 null "application/json; charset=utf-8" 297.8951ms

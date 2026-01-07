@@ -1,0 +1,16 @@
+2026-01-07 09:16:53.534 +03:00 [INF] ServiceA başlatılıyo
+2026-01-07 09:16:54.393 +03:00 [INF] ServiceA başladı
+2026-01-07 09:16:54.652 +03:00 [INF] Now listening on: https://localhost:7098
+2026-01-07 09:16:54.655 +03:00 [INF] Now listening on: http://localhost:5251
+2026-01-07 09:16:54.755 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-07 09:16:54.756 +03:00 [INF] Hosting environment: Development
+2026-01-07 09:16:54.757 +03:00 [INF] Content root path: C:\Users\sproid\source\repos\sinergyit-soru3\sinergyit.ServiceA.Api
+2026-01-07 09:17:22.642 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7098/api/test - null null
+2026-01-07 09:17:22.785 +03:00 [INF] Executing endpoint 'sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)'
+2026-01-07 09:17:22.827 +03:00 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller sinergyit.ServiceA.API.Controllers.TestController (sinergyit.ServiceA.Api).
+2026-01-07 09:17:22.831 +03:00 [INF] ServiceA test
+2026-01-07 09:17:22.832 +03:00 [WRN] Bu bir test warning logu
+2026-01-07 09:17:22.839 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-07 09:17:22.854 +03:00 [INF] Executed action sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api) in 22.7452ms
+2026-01-07 09:17:22.858 +03:00 [INF] Executed endpoint 'sinergyit.ServiceA.API.Controllers.TestController.Get (sinergyit.ServiceA.Api)'
+2026-01-07 09:17:22.863 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7098/api/test - 200 null application/json; charset=utf-8 227.59ms
